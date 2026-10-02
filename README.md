@@ -1,4 +1,4 @@
-MyDay ss
+MyDay
 
 Aplicação móvel multidisciplinar para estudantes, desenvolvida no âmbito da Licenciatura em Engenharia Informática – IADE, Universidade Europeia.
 
